@@ -1,1 +1,1 @@
-# project-recipe
+# project-recipe contains my first project of making a website and 2 pages where I code the preparation of two recipes for a healthy meal using just html and bringing it structure using the semantics that I felt correct.
